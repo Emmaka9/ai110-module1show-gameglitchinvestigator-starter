@@ -45,9 +45,9 @@ This is a number guessing game built with Streamlit. The player picks a difficul
 4. **Refactoring** – Moved all four functions (`get_range_for_difficulty`, `parse_guess`, `check_guess`, `update_score`) into `logic_utils.py` and updated `app.py` to import them from there. All three pytest tests now pass.
 
 ## 📸 Demo
-<img width="1902" height="827" alt="image" src="https://github.com/user-attachments/assets/1a13cd68-ad52-4770-957a-004f403552e1" />
 
-![Winning game screenshot](screenshot.png)
+
+![Winning game screenshot](<img width="1902" height="827" alt="image" src="https://github.com/user-attachments/assets/1a13cd68-ad52-4770-957a-004f403552e1" />)
 
 ## 🚀 Stretch Features
 
